@@ -1,0 +1,11 @@
+Sunday to sunday
+- [01 BALLOON](https://www.codechef.com/problems/BALLOON)
+- [02 DOMINANT2](https://www.codechef.com/problems/DOMINANT2)
+- [03 LAPIN](https://www.codechef.com/problems/LAPIN)
+- [04 MATPAN](https://www.codechef.com/problems/MATPAN)
+- [05 PETSTORE](https://www.codechef.com/problems/PETSTORE)
+- [06 TSTROBOT](https://www.codechef.com/problems/TSTROBOT)
+- [07 EQUALELE](https://www.codechef.com/problems/EQUALELE)
+- [08 ATTENDU](https://www.codechef.com/problems/ATTENDU)
+- [09 RECIPE](https://www.codechef.com/problems/RECIPE)
+- [10 WEIGHTBL](https://www.codechef.com/problems/WEIGHTBL)
