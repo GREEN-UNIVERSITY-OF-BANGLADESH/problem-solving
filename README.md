@@ -1,7 +1,6 @@
 # Problem Solving in CodeChef
 
-# Week 10 Running
-# 21 to 28 May, 2023
+## Week 10 Running. 21 to 28 May, 2023
 
 ## Our Contributors
 
